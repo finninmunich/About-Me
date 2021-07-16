@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @finninmunich
+- 👋 Hi, I’m Zhisheng Zheng
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently a master student at Technical University of Munich, studying Robotics, cognition, intelligence
 - 💞️ I’m looking to collaborate on any deep learning project
