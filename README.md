@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently a master student at Technical University of Munich, studying Robotics, cognition, intelligence
 - 💞️ I’m looking to collaborate on any deep learning project
-- 📫 How to reach me ---> just send me an email: finn.zheng@tum.de
+- 📫 How to reach me ---> just drop me an email: finn.zheng@tum.de
 
 <!---
 finninmunich/finninmunich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
